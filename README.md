@@ -15,6 +15,14 @@ BookExplorer is a modern React Native app for discovering, searching, and managi
 
 ---
 
+## Demo
+
+Watch a video demonstration of the app's features and user flow:
+
+[Watch the Demo Video](https://drive.google.com/file/d/1Cs_Bduo200uqLe5EmQzdW0PYpuWFTGyz/view?usp=drive_link)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
